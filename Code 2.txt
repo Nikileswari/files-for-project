@@ -1,0 +1,2 @@
+Print (positive numbers )
+Input list: 1 =3,4,-5
